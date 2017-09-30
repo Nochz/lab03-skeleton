@@ -1,7 +1,7 @@
-#Thu Sep 07 22:49:44 EDT 2017
-base.0=C\:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e09d1c7e5733dc9020f45c8ba45f6d0fd02e83e6
+#Fri Sep 29 21:45:08 EDT 2017
+base.0=C\:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e035cb46da09319b1ed39edd7c39b2b7802a8860
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_76cb5f5453e07d1281892a1d9ff5b46270c365d4\\classes.dex
-base.1=C\:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_76cb5f5453e07d1281892a1d9ff5b46270c365d4
-file.0=C\:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e09d1c7e5733dc9020f45c8ba45f6d0fd02e83e6\\classes.dex
+file.1=C\:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c33097899ff4c78357e661f8f8c3759b495f7270\\classes.dex
+base.1=C\:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c33097899ff4c78357e661f8f8c3759b495f7270
+file.0=C\:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e035cb46da09319b1ed39edd7c39b2b7802a8860\\classes.dex

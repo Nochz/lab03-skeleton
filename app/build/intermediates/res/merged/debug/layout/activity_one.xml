@@ -46,6 +46,13 @@
         android:onClick="launchActivityTwo"
         android:text="@string/button" />
 
+    <Button
+        android:id="@+id/clearTxt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="clearCounters"
+        android:text="Counters Clear" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

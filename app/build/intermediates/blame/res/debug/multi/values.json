@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,14 @@
                     "endOffset": 100
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 49,
+                        "endOffset": 104
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 53,
+                        "endOffset": 599
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 203
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 48,
+                        "endOffset": 809
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 247
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endColumn": 43,
+                        "endOffset": 935
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 291
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 43,
+                        "endOffset": 980
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 342
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 50,
+                        "endOffset": 156
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 397
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 54,
+                        "endOffset": 212
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 454
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 434,
+                        "endColumn": 56,
+                        "endOffset": 486
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 507
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 328,
+                        "endColumn": 52,
+                        "endOffset": 376
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 564
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 56,
+                        "endOffset": 544
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 619
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 54,
+                        "endOffset": 322
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 672
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endColumn": 52,
+                        "endOffset": 266
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 723
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 382,
+                        "endColumn": 50,
+                        "endOffset": 428
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 801
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 815,
+                        "endColumn": 77,
+                        "endOffset": 888
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 870
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 68,
+                        "endOffset": 669
+                    }
                 }
             },
             {
@@ -191,7 +296,7 @@
                     "endOffset": 959
                 },
                 "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -206,593 +311,40 @@
                     "startLine": 18,
                     "startColumn": 4,
                     "startOffset": 964,
-                    "endLine": 20,
-                    "endColumn": 12,
-                    "endOffset": 1042
-                },
-                "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 1047,
-                    "endLine": 23,
-                    "endColumn": 12,
-                    "endOffset": 1114
-                },
-                "from": {
-                    "file": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 49,
-                    "endOffset": 100
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 53,
-                    "endOffset": 154
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 159,
-                    "endColumn": 48,
-                    "endOffset": 203
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 208,
-                    "endColumn": 43,
-                    "endOffset": 247
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 849,
-                        "endColumn": 43,
-                        "endOffset": 888
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 252,
-                    "endColumn": 43,
-                    "endOffset": 291
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 893,
-                        "endColumn": 43,
-                        "endOffset": 932
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 296,
-                    "endColumn": 50,
-                    "endOffset": 342
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 347,
-                    "endColumn": 54,
-                    "endOffset": 397
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 402,
-                    "endColumn": 56,
-                    "endOffset": 454
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 459,
-                    "endColumn": 52,
-                    "endOffset": 507
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 512,
-                    "endColumn": 56,
-                    "endOffset": 564
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 569,
-                    "endColumn": 54,
-                    "endOffset": 619
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 624,
-                    "endColumn": 52,
-                    "endOffset": 672
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 677,
-                    "endColumn": 50,
-                    "endOffset": 723
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 728,
-                    "endColumn": 77,
-                    "endOffset": 801
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 806,
-                    "endColumn": 68,
-                    "endOffset": 870
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 875,
-                    "endColumn": 59,
-                    "endOffset": 930
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 935,
                     "endLine": 24,
                     "endColumn": 12,
-                    "endOffset": 1221
+                    "endOffset": 1250
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1226,
+                    "startOffset": 1255,
                     "endLine": 27,
                     "endColumn": 12,
-                    "endOffset": 1381
+                    "endOffset": 1410
                 },
                 "from": {
-                    "file": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml"
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 49,
-                    "endOffset": 100
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 56,
-                        "endColumn": 49,
-                        "endOffset": 101
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 53,
-                    "endOffset": 154
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 538,
-                        "endColumn": 53,
-                        "endOffset": 587
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 159,
-                    "endColumn": 48,
-                    "endOffset": 203
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 721,
-                        "endColumn": 48,
-                        "endOffset": 765
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 208,
-                    "endColumn": 48,
-                    "endOffset": 252
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 1,
-                        "startOffset": 767,
-                        "endColumn": 45,
-                        "endOffset": 811
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 257,
-                    "endColumn": 50,
-                    "endOffset": 303
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 816,
-                        "endColumn": 50,
-                        "endOffset": 862
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 308,
-                    "endColumn": 50,
-                    "endOffset": 354
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 106,
-                        "endColumn": 50,
-                        "endOffset": 152
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 359,
-                    "endColumn": 54,
-                    "endOffset": 409
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 54,
-                        "endOffset": 207
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 414,
-                    "endColumn": 56,
-                    "endOffset": 466
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 424,
-                        "endColumn": 56,
-                        "endOffset": 476
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 471,
-                    "endColumn": 52,
-                    "endOffset": 519
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 320,
-                        "endColumn": 52,
-                        "endOffset": 368
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 524,
-                    "endColumn": 56,
-                    "endOffset": 576
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 481,
-                        "endColumn": 56,
-                        "endOffset": 533
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 581,
-                    "endColumn": 54,
-                    "endOffset": 631
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 265,
-                        "endColumn": 54,
-                        "endOffset": 315
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 636,
-                    "endColumn": 52,
-                    "endOffset": 684
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 212,
-                        "endColumn": 52,
-                        "endOffset": 260
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 689,
-                    "endColumn": 50,
-                    "endOffset": 735
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 373,
-                        "endColumn": 50,
-                        "endOffset": 419
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 740,
-                    "endColumn": 68,
-                    "endOffset": 804
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 592,
-                        "endColumn": 68,
-                        "endOffset": 656
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 809,
-                    "endColumn": 59,
-                    "endOffset": 864
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 661,
-                        "endColumn": 59,
-                        "endOffset": 716
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 869,
-                    "endLine": 23,
-                    "endColumn": 12,
-                    "endOffset": 1155
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 186,
-                        "endLine": 12,
-                        "endColumn": 12,
-                        "endOffset": 472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1160,
-                    "endLine": 26,
-                    "endColumn": 12,
-                    "endOffset": 1315
-                },
-                "from": {
-                    "file": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\values\\styles.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 510,
+                        "startOffset": 525,
                         "endLine": 17,
                         "endColumn": 12,
-                        "endOffset": 665
+                        "endOffset": 682
                     }
                 }
             }

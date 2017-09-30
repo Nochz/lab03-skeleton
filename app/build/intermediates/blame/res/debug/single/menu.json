@@ -1,26 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
+        "merged": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
+        "source": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\menu\\activity_one.xml"
     },
     {
-        "merged": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
-    },
-    {
-        "merged": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
-    },
-    {
-        "merged": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_one.xml",
-        "source": "C:\\home\\tricia\\2017\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_one.xml"
-    },
-    {
-        "merged": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\home\\tricia\\AndroidStudioProjects\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
-    },
-    {
-        "merged": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
-        "source": "C:\\Users\\owner\\gitstuff\\lab03-skeleton\\app\\src\\main\\res\\menu\\activity_two.xml"
+        "merged": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_two.xml",
+        "source": "C:\\Users\\Rhai\\Desktop\\Mobile lab3\\app\\src\\main\\res\\menu\\activity_two.xml"
     }
 ]
